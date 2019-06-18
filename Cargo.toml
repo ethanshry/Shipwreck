@@ -1,0 +1,12 @@
+[package]
+name = "shipwreck"
+version = "0.0.1"
+authors = ["ethanshry <ehshry@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+lapin-async = "^0.21"
+log = "^0.4"
+
+[dev-dependencies]
+env_logger = "^0.6"
